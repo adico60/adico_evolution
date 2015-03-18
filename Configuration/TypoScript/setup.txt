@@ -105,6 +105,7 @@ config {
 }
 
 
+page.10.file.stdWrap.cObject >
 page.10.file.stdWrap.cObject = CASE
 page.10.file.stdWrap.cObject {
   key.data = levelfield:-1, backend_layout_next_level, slide
