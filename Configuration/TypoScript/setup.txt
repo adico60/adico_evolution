@@ -119,7 +119,7 @@ page.10.file.stdWrap.cObject {
   evolution__interieur.insertData = 1
 
   default = TEXT
-  default.value = {$page.fluidtemplate.templateRootPath}Interieur.html
+  default.value = {$page.fluidtemplate.templateRootPath}Accueil.html
   default.insertData = 1
 }
 
