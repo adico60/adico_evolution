@@ -30,17 +30,17 @@ mod {
                                 columns {
                                     1 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.gauche
-                                        colPos = 20
+                                        colPos = 40
                                         colspan = 2
                                     }
                                     2 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.milieu
-                                        colPos = 21
+                                        colPos = 41
                                         colspan = 2
                                     }
                                     3 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.droite
-                                        colPos = 22
+                                        colPos = 42
                                         colspan = 2
                                     }
                                 }
