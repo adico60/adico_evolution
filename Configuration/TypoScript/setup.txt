@@ -111,16 +111,16 @@ page.10.file.stdWrap.cObject {
   key.data = levelfield:-1, backend_layout_next_level, slide
   key.override.field = backend_layout
 
-  evolution__accueil = TEXT
-  evolution__accueil.value = {$page.fluidtemplate.templateRootPath}Accueil.html
-  evolution__accueil.insertData = 1
+  bootstrap_package__accueil = TEXT
+  bootstrap_package__accueil.value = {$page.fluidtemplate.templateRootPath}Accueil.html
+  bootstrap_package__accueil.insertData = 1
 
-  evolution__interieur = TEXT
-  evolution__interieur.value = {$page.fluidtemplate.templateRootPath}Interieur.html
-  evolution__interieur.insertData = 1
+  bootstrap_package__interieur = TEXT
+  bootstrap_package__interieur.value = {$page.fluidtemplate.templateRootPath}Interieur.html
+  bootstrap_package__interieur.insertData = 1
 
   default = TEXT
-  default.value = {$page.fluidtemplate.templateRootPath}Accueil.html
+  default.value = {$page.fluidtemplate.templateRootPath}Interieur.html
   default.insertData = 1
 }
 
