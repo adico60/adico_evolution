@@ -31,7 +31,7 @@ mod {
                         }
                     }
                 }
-                icon = EXT:adico_evolution/Resources/Public/Images/BackendLayouts/interieur.gif
+                icon = EXT:adico_evolution/Resources/Public/Images/BackendLayouts/evo1_interieur.gif
             }
         }
     }
