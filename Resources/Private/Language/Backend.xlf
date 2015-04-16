@@ -6,27 +6,31 @@
 		<body>
 
 			<trans-unit id="theme_name">
-				<source>Decouverte</source>
+				<source>Evolution 1</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.accueil">
-				<source>Accueil</source>
+				<source>Accueil Evolution 1</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.interieur">
-				<source>Interieur</source>
+				<source>Interieur Evolution 1</source>
+			</trans-unit>
+			
+			<trans-unit id="backend_layout.clean">
+				<source>Page large  Evolution 1</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.column.gauche">
-				<source>Colonne de gauche</source>
+				<source>Colonne de gauche Evolution 1</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.column.milieu">
-				<source>Colonne du milieu</source>
+				<source>Colonne du milieu Evolution 1</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.column.droite">
-				<source>Colonne de droite</source>
+				<source>Colonne de droite Evolution 1</source>
 			</trans-unit>
 
 		</body>
