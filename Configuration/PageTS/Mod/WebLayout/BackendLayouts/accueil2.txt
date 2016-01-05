@@ -22,7 +22,7 @@ mod {
                                         name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.2
                                         colPos = 2
                                         colspan = 2
-					rowspan = 2
+					                    rowspan = 2
                                     }
                                 }
                             }
@@ -35,8 +35,8 @@ mod {
                                     }
                                     2 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.centrale
-                                        colPos = 43
-                                        colspan = 4
+                                        colPos = 41
+                                        colspan = 2
                                     }
                                 }
                             }
