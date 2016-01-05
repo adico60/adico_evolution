@@ -13,7 +13,7 @@
 				<source>Accueil Evolution 1</source>
 			</trans-unit>
 			
-			<trans-unit id="backend_layout.accueil2">
+			<trans-unit id="backend_layout.accueil2col">
 				<source>Accueil2 Evolution 1</source>
 			</trans-unit>
 

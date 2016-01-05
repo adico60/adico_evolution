@@ -4,8 +4,8 @@
 mod {
     web_layout {
         BackendLayouts {
-            accueil2 {
-                title = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.accueil2
+            accueil2col {
+                title = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.accueil2col
                 config {
                     backend_layout {
                         colCount = 3
