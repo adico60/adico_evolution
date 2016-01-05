@@ -12,6 +12,10 @@
 			<trans-unit id="backend_layout.accueil">
 				<source>Accueil Evolution 1</source>
 			</trans-unit>
+			
+			<trans-unit id="backend_layout.accueil2">
+				<source>Accueil2 Evolution 1</source>
+			</trans-unit>
 
 			<trans-unit id="backend_layout.interieur">
 				<source>Interieur Evolution 1</source>
