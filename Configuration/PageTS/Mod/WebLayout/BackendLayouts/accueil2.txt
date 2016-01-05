@@ -5,7 +5,7 @@ mod {
     web_layout {
         BackendLayouts {
             accueil2 {
-                title = LLLEXTadico_evolutionResourcesPrivateLanguageBackend.xlfbackend_layout.accueil2
+                title = LLL:EXTadico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.accueil2
                 config {
                     backend_layout {
                         colCount = 8
@@ -14,12 +14,12 @@ mod {
                             1 {
                                 columns {
                                     1 {
-                                        name = LLLEXTcmslocallang_ttc.xlfcolPos.I.1
+                                        name = LLL:EXTcms/locallang_ttc.xlf:colPos.I.1
                                         colPos = 0
                                         colspan = 6
                                     }
                                     2 {
-                                        name = LLLEXTcmslocallang_ttc.xlfcolPos.I.2
+                                        name = LLL:EXTcms/locallang_ttc.xlf:colPos.I.2
                                         colPos = 2
                                         colspan = 2
 					rowspan = 2
@@ -29,12 +29,12 @@ mod {
                             2 {
                                 columns {
                                     1 {
-                                        name = LLLEXTadico_evolutionResourcesPrivateLanguageBackend.xlfbackend_layout.column.gauche
+                                        name = LLL:EXTadico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.gauche
                                         colPos = 40
                                         colspan = 2
                                     }
                                     2 {
-                                        name = LLLEXTadico_evolutionResourcesPrivateLanguageBackend.xlfbackend_layout.column.centrale
+                                        name = LLL:EXTadico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.centrale
                                         colPos = 41
                                         colspan = 4
                                     }
@@ -43,7 +43,7 @@ mod {
                         }
                     }
                 }
-                icon = EXTadico_evolutionResourcesPublicImagesBackendLayoutsevo1_accueil2.gif
+                icon = EXT:adico_evolution/Resources/Public/Images/BackendLayouts/evo1_accueil2.gif
             }
         }
     }
