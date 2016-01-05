@@ -8,7 +8,7 @@ mod {
                 title = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.accueil2
                 config {
                     backend_layout {
-                        colCount = 8
+                        colCount = 3
                         rowCount = 2
                         rows {
                             1 {
@@ -16,13 +16,12 @@ mod {
                                     1 {
                                         name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.1
                                         colPos = 0
-                                        colspan = 6
+                                        colspan = 2
                                     }
                                     2 {
                                         name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.2
                                         colPos = 2
-                                        colspan = 2
-					                    rowspan = 2
+                                        rowspan = 2
                                     }
                                 }
                             }
@@ -31,12 +30,10 @@ mod {
                                     1 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.gauche
                                         colPos = 40
-                                        colspan = 2
                                     }
                                     2 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.centrale
                                         colPos = 41
-                                        colspan = 2
                                     }
                                 }
                             }
