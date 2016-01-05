@@ -35,7 +35,7 @@ mod {
                                     }
                                     2 {
                                         name = LLL:EXT:adico_evolution/Resources/Private/Language/Backend.xlf:backend_layout.column.centrale
-                                        colPos = 41
+                                        colPos = 43
                                         colspan = 4
                                     }
                                 }
