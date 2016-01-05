@@ -28,6 +28,10 @@
 			<trans-unit id="backend_layout.column.milieu">
 				<source>Colonne du milieu Evolution 1</source>
 			</trans-unit>
+			
+			<trans-unit id="backend_layout.column.centrale">
+				<source>Colonne Centrale Evolution 1</source>
+			</trans-unit>
 
 			<trans-unit id="backend_layout.column.droite">
 				<source>Colonne de droite Evolution 1</source>

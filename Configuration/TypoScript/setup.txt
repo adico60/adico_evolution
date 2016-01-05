@@ -119,6 +119,10 @@ page {
                     pagets__accueil.value = Accueil
                     pagets__accueil.insertData = 1
 
+					pagets__accueil2 = TEXT
+                    pagets__accueil2.value = Accueil2
+                    pagets__accueil2.insertData = 1
+					
                     pagets__interieur = TEXT
                     pagets__interieur.value = Interieur
                     pagets__interieur.insertData = 1
